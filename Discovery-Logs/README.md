@@ -3,6 +3,7 @@
 This folder contains logs of discoveries and findings.
 
 spinny balls.
+
 >Be me, 4:40 AM in the morning, doing physics worksheet on momentum. 
 >Boring. Massive tangent. Light sails, centrifugal refining, orbital rings. 
 >Spinny balls cool? hold and transfer near infinite energy? 
